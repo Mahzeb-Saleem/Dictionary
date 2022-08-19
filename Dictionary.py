@@ -7,7 +7,7 @@
 # IoT = d
 
 all_students=[]
-for i in range(1,3):
+for i in range(1,100):
     Name=input('Enter Student Name: ')
     Cell_no=input('Enter Cell no: ')
     Cnic_no=input('Enter CNIC no: ')
